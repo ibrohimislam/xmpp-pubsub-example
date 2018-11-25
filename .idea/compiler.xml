@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="xmpp-pubsub-example_main" target="1.8" />
+      <module name="xmpp-pubsub-example_test" target="1.8" />
+      <module name="xmpp-pubsub-publish_main" target="1.8" />
+      <module name="xmpp-pubsub-publish_publish" target="1.8" />
+      <module name="xmpp-pubsub-publish_test" target="1.8" />
+      <module name="xmpp-pubsub-subscribe_main" target="1.8" />
+      <module name="xmpp-pubsub-subscribe_subscribe" target="1.8" />
+      <module name="xmpp-pubsub-subscribe_test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/xmpp-pubsub-example.iml" filepath="$PROJECT_DIR$/xmpp-pubsub-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/xmpp-pubsub-example_main.iml" filepath="$PROJECT_DIR$/.idea/modules/xmpp-pubsub-example_main.iml" group="xmpp-pubsub-example" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/xmpp-pubsub-example_test.iml" filepath="$PROJECT_DIR$/.idea/modules/xmpp-pubsub-example_test.iml" group="xmpp-pubsub-example" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/xmpp-pubsub-publish/xmpp-pubsub-publish.iml" filepath="$PROJECT_DIR$/.idea/modules/xmpp-pubsub-publish/xmpp-pubsub-publish.iml" group="xmpp-pubsub-publish" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/xmpp-pubsub-publish/xmpp-pubsub-publish_main.iml" filepath="$PROJECT_DIR$/.idea/modules/xmpp-pubsub-publish/xmpp-pubsub-publish_main.iml" group="xmpp-pubsub-publish" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/xmpp-pubsub-publish/xmpp-pubsub-publish_test.iml" filepath="$PROJECT_DIR$/.idea/modules/xmpp-pubsub-publish/xmpp-pubsub-publish_test.iml" group="xmpp-pubsub-publish" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/xmpp-pubsub-subscribe/xmpp-pubsub-subscribe.iml" filepath="$PROJECT_DIR$/.idea/modules/xmpp-pubsub-subscribe/xmpp-pubsub-subscribe.iml" group="xmpp-pubsub-subscribe" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/xmpp-pubsub-subscribe/xmpp-pubsub-subscribe_main.iml" filepath="$PROJECT_DIR$/.idea/modules/xmpp-pubsub-subscribe/xmpp-pubsub-subscribe_main.iml" group="xmpp-pubsub-subscribe" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/xmpp-pubsub-subscribe/xmpp-pubsub-subscribe_test.iml" filepath="$PROJECT_DIR$/.idea/modules/xmpp-pubsub-subscribe/xmpp-pubsub-subscribe_test.iml" group="xmpp-pubsub-subscribe" />
+    </modules>
+  </component>
+</project>

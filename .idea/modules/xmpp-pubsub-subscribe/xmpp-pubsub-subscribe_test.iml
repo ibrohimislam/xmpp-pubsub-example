@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":xmpp-pubsub-subscribe:test" external.linked.project.path="$MODULE_DIR$/../../../xmpp-pubsub-subscribe" external.root.project.path="$MODULE_DIR$/../../.." external.system.id="GRADLE" external.system.module.group="xmpp-pubsub-example" external.system.module.type="sourceSet" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="kotlin-language" name="Kotlin">
+      <configuration version="3" platform="JVM 1.6" useProjectSettings="false">
+        <compilerSettings />
+        <compilerArguments>
+          <option name="destination" value="$MODULE_DIR$/../../../xmpp-pubsub-subscribe/build/classes/kotlin/test" />
+          <option name="classpath" value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.igniterealtime.smack/smack-java7/4.3.0/8a4166b4a5aeee74709aaeb7912380039a539a5b/smack-java7-4.3.0.jar:/Users/ibrohim/.gradle/caches/modules-2/files-2.1/org.igniterealtime.smack/smack-tcp/4.3.0/b8c701ea155cbd4071bef566ade087b09f6d7bea/smack-tcp-4.3.0.jar:/Users/ibrohim/.gradle/caches/modules-2/files-2.1/org.igniterealtime.smack/smack-extensions/4.3.0/2e5810194813c86b71c6dca2ee4b5fe2bc5d7d88/smack-extensions-4.3.0.jar:/Users/ibrohim/.gradle/caches/modules-2/files-2.1/org.igniterealtime.smack/smack-im/4.3.0/a17c8d8fa99d4073cf251d4c19b2f6b0cd074bf7/smack-im-4.3.0.jar:/Users/ibrohim/.gradle/caches/modules-2/files-2.1/org.igniterealtime.smack/smack-resolver-javax/4.3.0/1306f1a0579d4e0811952e6f35c6e35f83bb1856/smack-resolver-javax-4.3.0.jar:/Users/ibrohim/.gradle/caches/modules-2/files-2.1/org.igniterealtime.smack/smack-sasl-javax/4.3.0/4d990543ac80eee68d75119ef5b3a029576cffbf/smack-sasl-javax-4.3.0.jar:/Users/ibrohim/.gradle/caches/modules-2/files-2.1/org.igniterealtime.smack/smack-core/4.3.0/b5c2628c450db1dab3922932c206f875ee844cc0/smack-core-4.3.0.jar:/Users/ibrohim/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-jdk8/1.3.10/71d0fa967493eb76648b575edf1762cb2d0c7f10/kotlin-stdlib-jdk8-1.3.10.jar:/Users/ibrohim/.gradle/caches/modules-2/files-2.1/xpp3/xpp3/1.1.4c/9b988ea84b9e4e9f1874e390ce099b8ac12cfff5/xpp3-1.1.4c.jar:/Users/ibrohim/.gradle/caches/modules-2/files-2.1/org.jxmpp/jxmpp-jid/0.6.3/522507c376b16d96a42b7327c307fb15a51eae66/jxmpp-jid-0.6.3.jar:/Users/ibrohim/.gradle/caches/modules-2/files-2.1/org.jxmpp/jxmpp-core/0.6.3/5bf1b1328cf24798d693de60ad47e730b85ed2ae/jxmpp-core-0.6.3.jar:/Users/ibrohim/.gradle/caches/modules-2/files-2.1/org.minidns/minidns-core/0.3.2/f982d93ec61ddf2046c9be1f0586e54dff06eec0/minidns-core-0.3.2.jar:/Users/ibrohim/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-jdk7/1.3.10/4d147bf43060dc43d61b096e24da1e67dfe0c032/kotlin-stdlib-jdk7-1.3.10.jar:/Users/ibrohim/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.3.10/b178c1501609c6e4ee8be635513cb023a466457d/kotlin-stdlib-1.3.10.jar:/Users/ibrohim/.gradle/caches/modules-2/files-2.1/org.jxmpp/jxmpp-util-cache/0.6.3/f6fddc4341b8bf90240024418a5faa01458aa603/jxmpp-util-cache-0.6.3.jar:/Users/ibrohim/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.3.10/1b19d99229dcedad7caf50534dce38fe82845269/kotlin-stdlib-common-1.3.10.jar:/Users/ibrohim/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/13.0/919f0dfe192fb4e063e7dacadee7f8bb9a2672a9/annotations-13.0.jar" />
+          <option name="noStdlib" value="true" />
+          <option name="noReflect" value="true" />
+          <option name="moduleName" value="xmpp-pubsub-subscribe" />
+          <option name="addCompilerBuiltIns" value="true" />
+          <option name="loadBuiltInsFromDependencies" value="true" />
+          <option name="friendPaths">
+            <array>
+              <option value="$MODULE_DIR$/../../../xmpp-pubsub-subscribe/build/classes/java/main" />
+              <option value="$MODULE_DIR$/../../../xmpp-pubsub-subscribe/build/classes/kotlin/main" />
+            </array>
+          </option>
+          <option name="languageVersion" value="1.3" />
+          <option name="apiVersion" value="1.3" />
+          <option name="pluginOptions">
+            <array />
+          </option>
+          <option name="pluginClasspaths">
+            <array />
+          </option>
+        </compilerArguments>
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8">
+    <output-test url="file://$MODULE_DIR$/../../../xmpp-pubsub-subscribe/out/test/classes" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../xmpp-pubsub-subscribe/src/test">
+      <sourceFolder url="file://$MODULE_DIR$/../../../xmpp-pubsub-subscribe/src/test/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../xmpp-pubsub-subscribe/src/test/kotlin" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../xmpp-pubsub-subscribe/src/test/resources" type="java-test-resource" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="xmpp-pubsub-subscribe_main" />
+    <orderEntry type="module" module-name="xmpp-pubsub-publish_main" />
+    <orderEntry type="library" name="Gradle: org.igniterealtime.smack:smack-java7:4.3.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.igniterealtime.smack:smack-tcp:4.3.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.igniterealtime.smack:smack-extensions:4.3.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.igniterealtime.smack:smack-im:4.3.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.igniterealtime.smack:smack-resolver-javax:4.3.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.igniterealtime.smack:smack-sasl-javax:4.3.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.igniterealtime.smack:smack-core:4.3.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.3.10" level="project" />
+    <orderEntry type="library" name="Gradle: xpp3:xpp3:1.1.4c" level="project" />
+    <orderEntry type="library" name="Gradle: org.jxmpp:jxmpp-jid:0.6.3" level="project" />
+    <orderEntry type="library" name="Gradle: org.jxmpp:jxmpp-core:0.6.3" level="project" />
+    <orderEntry type="library" name="Gradle: org.minidns:minidns-core:0.3.2" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.3.10" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib:1.3.10" level="project" />
+    <orderEntry type="library" name="Gradle: org.jxmpp:jxmpp-util-cache:0.6.3" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-common:1.3.10" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains:annotations:13.0" level="project" />
+  </component>
+  <component name="TestModuleProperties" production-module="xmpp-pubsub-subscribe_main" />
+</module>

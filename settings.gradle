@@ -1,0 +1,2 @@
+rootProject.name = 'xmpp-pubsub-example'
+include ':xmpp-pubsub-publish', ':xmpp-pubsub-subscribe'

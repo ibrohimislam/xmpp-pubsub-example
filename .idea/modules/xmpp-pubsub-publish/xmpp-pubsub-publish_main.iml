@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":xmpp-pubsub-publish:main" external.linked.project.path="$MODULE_DIR$/../../../xmpp-pubsub-publish" external.root.project.path="$MODULE_DIR$/../../.." external.system.id="GRADLE" external.system.module.group="xmpp-pubsub-example" external.system.module.type="sourceSet" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8">
+    <output url="file://$MODULE_DIR$/../../../xmpp-pubsub-publish/out/production/classes" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../xmpp-pubsub-publish/src">
+      <sourceFolder url="file://$MODULE_DIR$/../../../xmpp-pubsub-publish/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../xmpp-pubsub-publish/src/main/resources" type="java-resource" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Gradle: org.igniterealtime.smack:smack-java7:4.3.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.igniterealtime.smack:smack-tcp:4.3.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.igniterealtime.smack:smack-extensions:4.3.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.igniterealtime.smack:smack-im:4.3.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.igniterealtime.smack:smack-resolver-javax:4.3.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.igniterealtime.smack:smack-sasl-javax:4.3.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.igniterealtime.smack:smack-core:4.3.0" level="project" />
+    <orderEntry type="library" name="Gradle: xpp3:xpp3:1.1.4c" level="project" />
+    <orderEntry type="library" name="Gradle: org.jxmpp:jxmpp-jid:0.6.3" level="project" />
+    <orderEntry type="library" name="Gradle: org.jxmpp:jxmpp-core:0.6.3" level="project" />
+    <orderEntry type="library" name="Gradle: org.minidns:minidns-core:0.3.2" level="project" />
+    <orderEntry type="library" name="Gradle: org.jxmpp:jxmpp-util-cache:0.6.3" level="project" />
+  </component>
+</module>
